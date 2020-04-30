@@ -1,0 +1,14 @@
+{
+  "name": "aleksandr-vykhodchenko/ipparseradapter",
+  "description": "aleksandr-vykhodchenko maxmind-adapter",
+  "autoload": {
+    "psr-4": {
+      "Aleksandr\\IpParserAdapter\\": "src/"
+
+    }
+
+  }
+
+
+
+}
